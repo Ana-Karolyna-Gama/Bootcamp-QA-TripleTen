@@ -1,4 +1,6 @@
-# Bootcamp QA :computer::fire: <img src="Imagem\648879040555c5d274c473dd_logo-tripleten.svg">
+# Bootcamp QA :computer::fire: 
+<img src="Imagem\648879040555c5d274c473dd_logo-tripleten.svg">
+
 ####  :pushpin: Sprint 1 
 - **Noções básicas de teste**
 :white_check_mark: Introdução à análise de QA
